@@ -1,20 +1,20 @@
 {
   "name": "Mutaba'ah Digital",
   "short_name": "Mutaba'ah",
-  "start_url": "https://mutabaah-mit-sq-ibn-masud.vercel.app/",
+  "start_url": "https://yaspim-privat-class-gorontalo.vercel.app/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0d9488",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://mutabaah-mit-sq-ibn-masud.vercel.app/cropped-Ikon-warna.png",
+      "src": "https://yaspim-privat-class-gorontalo.vercel.app/Yaspim.jpeg",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://mutabaah-mit-sq-ibn-masud.vercel.app/cropped-Ikon-warna.png",
+      "src": "https://yaspim-privat-class-gorontalo.vercel.app/Yaspim.jpeg",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
